@@ -1,5 +1,5 @@
 # 딥러닝을 이용한 자연어처리 입문
-유원준님의 딥러닝을 이용한 자연어처리 입문 https://wikidocs.net/book/2155 을 공부하고 정리하는 rep입니다
+딥러닝을 이용한 자연어처리 입문 https://wikidocs.net/book/2155 을 공부하고 정리
 
 ## List
 -- Part 1. 기본 과정--
